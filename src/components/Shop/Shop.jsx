@@ -43,6 +43,7 @@ const Shop = () => {
                     })
                 }
             </div>
+            <button className='shop-btn'>Show More</button>
         </div>
     )
 }

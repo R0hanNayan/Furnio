@@ -44,3 +44,21 @@
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 1.5rem;
 }
+
+.shop-btn{
+    border: 0.2rem solid #B88E2F;
+    outline: none;
+    background-color: white;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.3rem;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    width: 15.313rem;
+    height: 3rem;
+    color: #B88E2F;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
