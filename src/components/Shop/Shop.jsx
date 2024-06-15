@@ -8,7 +8,7 @@ import Card from '../../utils/Card/Card.jsx';
 
 const Shop = () => {
     return (
-        <div className='shop-container'>
+        <div className='shop-container' id='shop'>
             <div className='shop-header'>
                 <h1>Browse The Range</h1>
             </div>

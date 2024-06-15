@@ -5,7 +5,7 @@ import img2 from '../../assets/AboutImg2.png';
 
 const About = () => {
   return (
-    <div className='about-container'>
+    <div className='about-container' id='about'>
         <div className='about-contents'>
             <h1 className='about-heading'>50+ Beautiful rooms <br /> inspiration</h1>
             <p className='about-desc'>Our designer already made a lot of beautiful <br /> prototipe of rooms that inspire you</p>

@@ -5,7 +5,7 @@ import Logo from '../../utils/Logo/Logo.jsx';
 
 const Contact = () => {
   return (
-    <div className='contact-container'>
+    <div className='contact-container' id='contact'>
         <p className='contact-p1'>Share your setup with</p>
         <h1 className='contact-header'>#FurnioFurniture</h1>
         <img className='contact-img' src={img1} alt="Contact" />
